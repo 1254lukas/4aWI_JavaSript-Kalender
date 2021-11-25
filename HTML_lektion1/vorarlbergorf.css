@@ -1,0 +1,174 @@
+.uppernavigation{
+    top: 0;
+    background: #9E0B0F;
+    display: flex;
+    height: 27px;
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 18px;
+    outline: none;
+    box-sizing: inherit;
+    color: #333;
+    font-family: "ORF ON",Arial,Helvetica,Lucida Sans Unicode,Lucida Grande,sans-serif;
+    list-style-type: none;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: normal;
+}
+
+.middlenavigation{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 300;
+    font-size: 1.125rem;
+    box-sizing: inherit;
+   background-color: darkred;
+}
+
+.middlenavigationdiv{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 23px;
+}
+
+.site{
+    width: 875px;
+    margin: 0 0 25px 25px;
+    top: 0;
+    overflow-x: initial;
+    position: relative;
+    margin-left: 130px;
+    box-sizing: inherit;
+   
+}
+
+a{
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+    
+}
+
+p{
+    color:black;
+    font-family: "ORF ON Condensed",Arial,Helvetica,Lucida Sans Unicode,Lucida Grande,sans-serif;
+    list-style-type: none;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+h1{
+    color:black;
+}
+
+a img {
+    border: 0;
+}
+
+
+.uppernavigation a:hover { 
+   color: #F09A9D;
+   text-decoration: underline;
+}
+
+.area-wrapper{
+    top: 0;
+    margin-top: 0;
+    background: #BB131A;
+    height: 77px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 5;
+    box-sizing: inherit;
+    
+}
+
+.site-logo{
+    color: #ffffff;
+    font-family: "ORF ON",Arial,Helvetica,Lucida Sans Unicode,Lucida Grande,sans-serif;
+    font-weight: 300;
+    font-size: 1.625rem;
+    text-transform: lowercase;
+    display: inline-block;
+    text-decoration: none;
+    box-sizing: inherit;
+}
+
+
+.orf-logo{
+
+}
+
+.site-navigation-bar{
+    background: #D32824;
+    border-bottom: 3px solid #E94E38;
+    height: 11px;
+}
+
+.vorarlberg-logo:hover{
+    text-decoration: none;
+}
+
+.story-wrapper{
+    
+    min-height: 350px;
+    background-color: white;
+    height: 350px;
+    width: 879px;
+}
+
+
+
+.story_lead{
+    padding: 1.25rem 0 .5625rem 0;
+    margin-top: 0px;
+    font-size: 1.1875rem;
+    line-height: 1.3125rem;
+    max-width:  699px;
+    color: #84868c;
+    box-sizing: inherit;
+    background-color: white;
+   margin-left: 27px;
+   margin-top: 300px;
+   margin-left: 57px;
+    padding-right: 27px;
+    padding-bottom: 0px;
+    padding-left: 27px;
+    
+}
+
+.story{
+    background-color: white;
+    margin-top: 350px;
+	padding-top: 150px;
+	padding-left: 100px;
+	padding-right: 100px;
+	max-width: 879px;
+	box-sizing: inherit;
+	font-size: 1rem;
+	line-height: 1.375rem;
+	
+	
+}
+
+body {
+    background-color: lightgray;
+    color: black;
+}
+
+
+ 
+#child_1, #child_2
+{
+
+  position: absolute;
+}
+ 

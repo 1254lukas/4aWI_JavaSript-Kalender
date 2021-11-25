@@ -1,0 +1,38 @@
+.upper{
+    background-image: url("backround.jpg");
+    display: flex;
+    justify-content: space-between;
+    height: 70vh;
+    
+   
+}
+
+.downer{
+    height: 30vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    margin-left: 10vh;
+    margin-top: 10vh;
+    background-color: greenyellow;
+    height: 20vh;
+    width: 350px;
+}
+
+.right{
+    margin-right: 10vh;
+    margin-top: 10vh;
+    background-color: khaki;
+    height: 20vh;
+    width: 350px;
+   
+}
+
+.box{
+    background-color: green;
+    margin-left: 10vh;
+   margin-top: 10vh;
+}
+
